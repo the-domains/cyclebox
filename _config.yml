@@ -1,0 +1,14 @@
+layout_spectrum: 0.07651928882114589
+typography_spectrum: 0.4815281117334962
+color:
+  brandStrength: 0.8556129150092602
+  lightness: 0.7100720258895308
+  saturation: 0.756900719134137
+  rhythmicContrast: 0.047761935042217374
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: CycleBox
